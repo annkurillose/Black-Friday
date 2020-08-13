@@ -1,1 +1,4 @@
 # Black-Friday
+The data is used here is from Analytics Vidhya which contails details from a retail company. We are trying to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. The data consists of purchase summary of various customers for selected high volume products. The data set also contains customer demographics ( such as age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and Total purchase_amount. 
+Here we will be finding some interesting insights from the data like what are the most famous products across different age groups and cities or how the purchase amount varies along the occupation and so on. We will also build a models to predict the purchase amount of customer against various products.
+ * The data is attached in this repository itself or can also be found in  kaggel or Analytics Vidhya.
